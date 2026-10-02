@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\vinic\Desktop\ESCRITORIO\SISTEMA ESCRITORIO\GerenciadorEscritorio\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\FormEditarLancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\FormSelecionarOperador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaConfiguracoes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaHistorico.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaLancamentos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaRelatorios.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Telas\TelaSaidas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

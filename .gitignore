@@ -1,0 +1,5 @@
+config_db.json
+
+.vs/
+bin/
+obj/
